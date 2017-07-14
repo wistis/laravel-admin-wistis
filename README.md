@@ -12,9 +12,9 @@ laravel-admin
 
 [Demo](http://120.26.143.106/admin) use `username/password:admin/admin`
 
-Inspired by [SleepingOwlAdmin](https://github.com/sleeping-owl/admin) and [rapyd-laravel](https://github.com/zofe/rapyd-laravel).
-
-[Documentation](http://z-song.github.io/laravel-admin/) | [中文文档](http://z-song.github.io/laravel-admin/#/zh/)
+Inspired by [SleepingOwlAdmin](https://github.com/sleeping-owl/admin) and [rapyd-laravel](https://github.com/zofe/rapyd-laravel)
+and [z-song](https://github.com/z-song/laravel-admin).
+ 
 
 Screenshots
 ------------
@@ -28,16 +28,16 @@ First, install laravel, and make sure that the database connection settings are 
 
 ```
 Laravel 5.1, not maintained
-composer require encore/laravel-admin "1.1.*"
+composer require wistis/laravel-admin "1.1.*"
 
 Laravel 5.2
-composer require encore/laravel-admin "1.2.*"
+composer require wistis/laravel-admin "1.2.*"
 
 Laravel 5.3
-composer require encore/laravel-admin "1.3.*"
+composer require wistis/laravel-admin "1.3.*"
 
 Laravel 5.4
-composer require encore/laravel-admin "1.4.*"
+composer require wistis/laravel-admin "1.4.*"
 
 ```
 
